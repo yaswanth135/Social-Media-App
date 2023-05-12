@@ -1,4 +1,4 @@
-# Worldia
+# Instagram Clone
 A Dynamic social media app (Instagram Clone) where users can post images, like and unlike other users posts, comment on their posts, follow other users and much more
 
 # Requirements
